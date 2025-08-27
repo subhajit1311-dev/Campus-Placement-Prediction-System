@@ -52,4 +52,3 @@ The dataset contains records of students including demographics, educational det
 
 The dataset used in the project has been provided for reference: Jain University Bangalore Campus Placement Dataset- **Placement.csv** Contains 215 student records Includes secondary and higher secondary school percentages and specialization Also includes degree specialization, type and work experience, and salary offers to the placed students Placed (label = 1) Not Placed (label = 0) 90/10 train/test split
 
-Our model may not achieve the best accuracy(fiddling with the various parameters may enhance it)
